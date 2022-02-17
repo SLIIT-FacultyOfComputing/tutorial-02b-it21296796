@@ -57,22 +57,5 @@ long nCr(int n, int r)
   
 }
   
-  /*int factn = 1 ;
-  
-  for(x = n ; x >= 1 ; x--)
-    {
-      factn *= factn * x  ;
-    }
-
-  for( x = r ; x >= 1 ; x--  )
-    {
-      factr *= factr * x ;
-    }
-
-  for( x = (n-r) ; x >= 1 ; x++ )
-    {
-      factn-r *= factn-r * x ;
-    }*/
-
-  
+ 
 
